@@ -18,7 +18,7 @@
 - `git clone[주소][저장할 폴더]`
 ## 소스 코드
 > 다양한 오픈소스 활용하기
-github, bitlab site에서도 많이 제공
+github, gitlab 등에서도 많이 제공
 
 'git clone [주소]`
 
